@@ -2,6 +2,7 @@
 # 参考地址：https://www.jianshu.com/p/97efb8d988b5
 import json
 import requests
+import time
 
 TOKEN = 'free'  # token 获取：http://www.bhshare.cn/imgcode/gettoken
 URL = 'http://www.bhshare.cn/imgcode/'  # 接口地址
